@@ -2,18 +2,25 @@
 
 <div align="center">
 
-![Verve & Co. Banner](https://img.shields.io/badge/Razorpay_Buildathon-Track_01:_AI_Growth_%26_Agentic_Commerce-0C2340?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Status](https://img.shields.io/badge/Status-Production--Grade_Prototype-00C49F?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-verve--co--eight.vercel.app-00C49F?style=for-the-badge&logo=vercel&logoColor=white)](https://verve-co-eight.vercel.app/)
+![Razorpay Buildathon](https://img.shields.io/badge/Razorpay_Buildathon-Track_01:_AI_Growth_%26_Agentic_Commerce-0C2340?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Status](https://img.shields.io/badge/Status-Production--Grade_Live_Demo-00C49F?style=for-the-badge)
 ![Catalog Scale](https://img.shields.io/badge/Catalog-500_Curated_Products-teal?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployment-Vercel_Ready-black?style=for-the-badge&logo=vercel)
 
 <br/>
 
 **An autonomous, bounded, and auditable agentic commerce system where AI buyers and merchant agents collaborate within strict deterministic guardrails.**
 
-[Live Prototype Overview](#-architecture--transaction-flow) • [Quick Start](#-quick-start-guide) • [Vercel Deployment](#-deploying-to-vercel) • [Inspection & Auditing](#-interactive-inspection--audit-features) • [Endpoints Reference](#-acp-adapter--api-endpoints)
+[🌐 Live Deployment](https://verve-co-eight.vercel.app/) • [Architecture & Flow](#-architecture--transaction-flow) • [Quick Start](#-quick-start-guide) • [Interactive Auditing](#-interactive-inspection--audit-features) • [ACP Endpoints](#-acp-adapter--api-endpoints)
 
 </div>
+
+---
+
+> 🚀 **Live Evaluator Deployment:** [https://verve-co-eight.vercel.app/](https://verve-co-eight.vercel.app/)  
+> 📦 **GitHub Repository:** [https://github.com/taneshkhandal07-debug/Verve-Co.](https://github.com/taneshkhandal07-debug/Verve-Co.)  
+> 📡 **ACP Protocol Discovery:** [https://verve-co-eight.vercel.app/.well-known/acp/config.json](https://verve-co-eight.vercel.app/.well-known/acp/config.json)  
+> 🛒 **Live ACP Catalog Feed:** [https://verve-co-eight.vercel.app/acp/catalog](https://verve-co-eight.vercel.app/acp/catalog)
 
 ---
 
@@ -98,7 +105,7 @@ sequenceDiagram
 
 ---
 
-## 🚀 Quick Start Guide
+## 🚀 Quick Start Guide (Local Setup)
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
@@ -106,8 +113,8 @@ sequenceDiagram
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/taneshkhandal07-debug/Verve-Co.git
-cd Verve-Co
+git clone https://github.com/taneshkhandal07-debug/Verve-Co..git
+cd Verve-Co.
 npm install
 ```
 
@@ -145,26 +152,16 @@ node test-server-endpoints.js
 
 ---
 
-## ☁️ Deploying to Vercel
+## ☁️ Production Deployment on Vercel
 
-Verve & Co. is structured for zero-configuration, seamless deployment on **Vercel** with full static frontend hosting and Node.js serverless functions.
+Verve & Co. is live and deployed in production on **Vercel**:
 
-### One-Click / CLI Deployment
+🔗 **Production URL:** [https://verve-co-eight.vercel.app/](https://verve-co-eight.vercel.app/)
 
-1. Install the Vercel CLI (or link via the Vercel Web Dashboard):
-   ```bash
-   npm i -g vercel
-   vercel
-   ```
-2. Set Environment Variables in your Vercel Project Dashboard (under **Settings > Environment Variables**):
-   - `RAZORPAY_KEY_ID`: *(Your Razorpay Test Key)*
-   - `RAZORPAY_KEY_SECRET`: *(Your Razorpay Test Secret)*
-   - `RAZORPAY_WEBHOOK_SECRET`: *(Optional webhook secret)*
-   - `ACP_API_TOKEN`: `verve_acp_demo_bearer_token` *(or custom bearer token)*
-
-3. **Vercel Routing Behavior:**
-   - Static assets & React UI are served from `dist/` (via `npm run build`).
-   - All machine-readable discovery and transaction routes (`/acp/*`, `/.well-known/*`, `/agent/*`, `/audit-log`) are routed automatically to `api/index.js` via `vercel.json`.
+### Deployment Architecture on Vercel
+- **Frontend SPA:** Built via `vite build` into static assets in `dist/` with instant global Edge CDN caching.
+- **Serverless API:** Routes all machine-readable discovery (`/.well-known/*`), ACP endpoints (`/acp/*`), checkout (`/agent/*`), and ledger (`/audit-log`) automatically to Node.js serverless functions in `api/index.js`.
+- **CORS & Security:** Configured via `vercel.json` for secure cross-origin agent interactions.
 
 ---
 
@@ -245,4 +242,5 @@ Use the interactive scenario buttons in the console to evaluate edge cases immed
 - **Project:** Verve & Co. — Agentic Commerce & Checkout Engine
 - **Track:** Track 01 — AI Growth & Agentic Commerce
 - **Target Event:** Razorpay AI Buildathon
+- **Live Demo:** [https://verve-co-eight.vercel.app/](https://verve-co-eight.vercel.app/)
 - **Repository:** [https://github.com/taneshkhandal07-debug/Verve-Co.](https://github.com/taneshkhandal07-debug/Verve-Co.)
