@@ -1,0 +1,20 @@
+{
+  "merchantHardCap": 6000,
+  "escalationThreshold": 5000,
+  "allowedCategories": [
+    "audio",
+    "home",
+    "accessories",
+    "wearables",
+    "stationery",
+    "outdoor",
+    "tech",
+    "food",
+    "kitchen"
+  ],
+  "excludedAutonomousCategories": [
+    "kids"
+  ],
+  "maxUpsellAttempts": 1,
+  "maxUpsellFraction": 0.2
+}

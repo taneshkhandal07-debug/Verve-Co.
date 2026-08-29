@@ -1,0 +1,5041 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Wireless Earbuds Pro",
+      "title": "Wireless Earbuds Pro",
+      "price": 1499,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 14,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p2",
+      "name": "Scented Candle Trio",
+      "title": "Scented Candle Trio",
+      "price": 399,
+      "currency": "INR",
+      "category": "home",
+      "stock": 32,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p3",
+      "name": "Leather Wallet",
+      "title": "Leather Wallet",
+      "price": 899,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 20,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p4",
+      "name": "Smartwatch Lite",
+      "title": "Smartwatch Lite",
+      "price": 2999,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p5",
+      "name": "Ceramic Mug Set",
+      "title": "Ceramic Mug Set",
+      "price": 549,
+      "currency": "INR",
+      "category": "home",
+      "stock": 25,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p6",
+      "name": "Bluetooth Speaker Mini",
+      "title": "Bluetooth Speaker Mini",
+      "price": 1299,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 11,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p7",
+      "name": "Silk Scarf",
+      "title": "Silk Scarf",
+      "price": 749,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 18,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p8",
+      "name": "Desk Organizer",
+      "title": "Desk Organizer",
+      "price": 429,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p9",
+      "name": "Insulated Water Bottle",
+      "title": "Insulated Water Bottle",
+      "price": 599,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 27,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p10",
+      "name": "Aromatherapy Diffuser",
+      "title": "Aromatherapy Diffuser",
+      "price": 899,
+      "currency": "INR",
+      "category": "home",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p11",
+      "name": "Fitness Tracker Band",
+      "title": "Fitness Tracker Band",
+      "price": 1799,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 12,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p12",
+      "name": "Leather Journal",
+      "title": "Leather Journal",
+      "price": 349,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 30,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p13",
+      "name": "Portable Phone Stand",
+      "title": "Portable Phone Stand",
+      "price": 249,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 40,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p14",
+      "name": "Woollen Beanie",
+      "title": "Woollen Beanie",
+      "price": 399,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 24,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p15",
+      "name": "Gourmet Chocolate Box",
+      "title": "Gourmet Chocolate Box",
+      "price": 599,
+      "currency": "INR",
+      "category": "food",
+      "stock": 20,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p16",
+      "name": "Herbal Tea Sampler",
+      "title": "Herbal Tea Sampler",
+      "price": 449,
+      "currency": "INR",
+      "category": "food",
+      "stock": 26,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p17",
+      "name": "Classic Sunglasses",
+      "title": "Classic Sunglasses",
+      "price": 1199,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 16,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p18",
+      "name": "Mini Succulent Planter",
+      "title": "Mini Succulent Planter",
+      "price": 299,
+      "currency": "INR",
+      "category": "home",
+      "stock": 35,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p19",
+      "name": "Travel Neck Pillow",
+      "title": "Travel Neck Pillow",
+      "price": 549,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 19,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p20",
+      "name": "Wireless Charging Pad",
+      "title": "Wireless Charging Pad",
+      "price": 999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 21,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p21",
+      "name": "Cotton Throw Blanket",
+      "title": "Cotton Throw Blanket",
+      "price": 1299,
+      "currency": "INR",
+      "category": "home",
+      "stock": 14,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p22",
+      "name": "Leather Keychain",
+      "title": "Leather Keychain",
+      "price": 199,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 44,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p23",
+      "name": "Bamboo Cutlery Set",
+      "title": "Bamboo Cutlery Set",
+      "price": 349,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 28,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p24",
+      "name": "Kids Puzzle Set",
+      "title": "Kids Puzzle Set",
+      "price": 449,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 17,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p25",
+      "name": "Studio Monitor Headphones",
+      "title": "Studio Monitor Headphones",
+      "price": 3499,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 9,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p26",
+      "name": "Noise Cancelling Earphones",
+      "title": "Noise Cancelling Earphones",
+      "price": 2299,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p27",
+      "name": "Desktop Soundbar Compact",
+      "title": "Desktop Soundbar Compact",
+      "price": 1899,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 12,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p28",
+      "name": "Retro Wooden Radio",
+      "title": "Retro Wooden Radio",
+      "price": 1699,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p29",
+      "name": "USB Podcast Microphone Kit",
+      "title": "USB Podcast Microphone Kit",
+      "price": 2199,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 14,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p30",
+      "name": "Headphone Desk Stand",
+      "title": "Headphone Desk Stand",
+      "price": 499,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 25,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p31",
+      "name": "Braided Hi-Fi Audio Cable",
+      "title": "Braided Hi-Fi Audio Cable",
+      "price": 299,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 35,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p32",
+      "name": "Waterproof Shower Speaker",
+      "title": "Waterproof Shower Speaker",
+      "price": 799,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 20,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p33",
+      "name": "Hi-Fi USB-C DAC Dongle",
+      "title": "Hi-Fi USB-C DAC Dongle",
+      "price": 999,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 18,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p34",
+      "name": "Vinyl Record Care Kit",
+      "title": "Vinyl Record Care Kit",
+      "price": 599,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p35",
+      "name": "Minimalist LED Desk Lamp",
+      "title": "Minimalist LED Desk Lamp",
+      "price": 1199,
+      "currency": "INR",
+      "category": "home",
+      "stock": 16,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p36",
+      "name": "Ultrasonic Air Humidifier",
+      "title": "Ultrasonic Air Humidifier",
+      "price": 1499,
+      "currency": "INR",
+      "category": "home",
+      "stock": 13,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p37",
+      "name": "Linen Cushion Cover Set",
+      "title": "Linen Cushion Cover Set",
+      "price": 699,
+      "currency": "INR",
+      "category": "home",
+      "stock": 24,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p38",
+      "name": "Scandinavian Wall Clock",
+      "title": "Scandinavian Wall Clock",
+      "price": 899,
+      "currency": "INR",
+      "category": "home",
+      "stock": 17,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p39",
+      "name": "Concrete Incense Burner",
+      "title": "Concrete Incense Burner",
+      "price": 349,
+      "currency": "INR",
+      "category": "home",
+      "stock": 30,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p40",
+      "name": "Scented Botanical Soy Candle",
+      "title": "Scented Botanical Soy Candle",
+      "price": 449,
+      "currency": "INR",
+      "category": "home",
+      "stock": 28,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p41",
+      "name": "Borosilicate Glass Teapot",
+      "title": "Borosilicate Glass Teapot",
+      "price": 799,
+      "currency": "INR",
+      "category": "home",
+      "stock": 21,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p42",
+      "name": "Geometric Metal Bookends",
+      "title": "Geometric Metal Bookends",
+      "price": 599,
+      "currency": "INR",
+      "category": "home",
+      "stock": 19,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p43",
+      "name": "Solid Pine Floating Shelf",
+      "title": "Solid Pine Floating Shelf",
+      "price": 999,
+      "currency": "INR",
+      "category": "home",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p44",
+      "name": "Waffle Weave Bed Throw",
+      "title": "Waffle Weave Bed Throw",
+      "price": 1799,
+      "currency": "INR",
+      "category": "home",
+      "stock": 11,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p45",
+      "name": "Brass Coaster Set (4-Pack)",
+      "title": "Brass Coaster Set (4-Pack)",
+      "price": 499,
+      "currency": "INR",
+      "category": "home",
+      "stock": 26,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p46",
+      "name": "Sunset Ambient Projection Lamp",
+      "title": "Sunset Ambient Projection Lamp",
+      "price": 649,
+      "currency": "INR",
+      "category": "home",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p47",
+      "name": "Slim RFID Cardholder",
+      "title": "Slim RFID Cardholder",
+      "price": 449,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 38,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p48",
+      "name": "Heavyweight Canvas Tote Bag",
+      "title": "Heavyweight Canvas Tote Bag",
+      "price": 399,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 42,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p49",
+      "name": "Polarized Metal Aviators",
+      "title": "Polarized Metal Aviators",
+      "price": 1499,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 14,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p50",
+      "name": "Full-Grain Leather Belt",
+      "title": "Full-Grain Leather Belt",
+      "price": 799,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 23,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p51",
+      "name": "Stainless Pocket Hip Flask",
+      "title": "Stainless Pocket Hip Flask",
+      "price": 649,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 27,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p52",
+      "name": "Windproof Travel Umbrella",
+      "title": "Windproof Travel Umbrella",
+      "price": 549,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 31,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p53",
+      "name": "Merino Wool Comfort Socks",
+      "title": "Merino Wool Comfort Socks",
+      "price": 349,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p54",
+      "name": "Weekender Canvas Duffle",
+      "title": "Weekender Canvas Duffle",
+      "price": 1899,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 10,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p55",
+      "name": "Compact Key Organizer",
+      "title": "Compact Key Organizer",
+      "price": 399,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 33,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p56",
+      "name": "Velvet Travel Jewelry Case",
+      "title": "Velvet Travel Jewelry Case",
+      "price": 699,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 20,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p57",
+      "name": "Machined Brass Pocket Pen",
+      "title": "Machined Brass Pocket Pen",
+      "price": 499,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 25,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p58",
+      "name": "Hybrid Analog Smartwatch",
+      "title": "Hybrid Analog Smartwatch",
+      "price": 3499,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 7,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p59",
+      "name": "Cardio Pulse Sport Band",
+      "title": "Cardio Pulse Sport Band",
+      "price": 1499,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 18,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p60",
+      "name": "Titanium Bezel GPS Watch",
+      "title": "Titanium Bezel GPS Watch",
+      "price": 4299,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 5,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p61",
+      "name": "Silicone Strap 3-Pack",
+      "title": "Silicone Strap 3-Pack",
+      "price": 499,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 30,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p62",
+      "name": "Smart Sleep Tracker Ring",
+      "title": "Smart Sleep Tracker Ring",
+      "price": 3999,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 6,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p63",
+      "name": "Magnetic Charging Stand",
+      "title": "Magnetic Charging Stand",
+      "price": 799,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p64",
+      "name": "Running Phone Armband",
+      "title": "Running Phone Armband",
+      "price": 349,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 35,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p65",
+      "name": "Fingertip Pulse Oximeter",
+      "title": "Fingertip Pulse Oximeter",
+      "price": 699,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 24,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p66",
+      "name": "Smart Bluetooth Jump Rope",
+      "title": "Smart Bluetooth Jump Rope",
+      "price": 1199,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 16,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p67",
+      "name": "Hardcover Dot Grid Journal",
+      "title": "Hardcover Dot Grid Journal",
+      "price": 499,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 34,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p68",
+      "name": "Heavyweight Brass Fountain Pen",
+      "title": "Heavyweight Brass Fountain Pen",
+      "price": 899,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 19,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p69",
+      "name": "Acrylic Tiered Desk File Tray",
+      "title": "Acrylic Tiered Desk File Tray",
+      "price": 549,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 23,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p70",
+      "name": "Mechanical Drafting Pencil",
+      "title": "Mechanical Drafting Pencil",
+      "price": 399,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 40,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p71",
+      "name": "Archival Ink Bottle 50ml",
+      "title": "Archival Ink Bottle 50ml",
+      "price": 449,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 28,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p72",
+      "name": "Extended Vegan Leather Desk Mat",
+      "title": "Extended Vegan Leather Desk Mat",
+      "price": 1099,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 17,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p73",
+      "name": "Magnetic Paperclip Nest",
+      "title": "Magnetic Paperclip Nest",
+      "price": 249,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 45,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p74",
+      "name": "Minimalist Sticky Note Palette",
+      "title": "Minimalist Sticky Note Palette",
+      "price": 199,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 50,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p75",
+      "name": "Sealing Wax Stamp Gift Kit",
+      "title": "Sealing Wax Stamp Gift Kit",
+      "price": 599,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p76",
+      "name": "Solid Walnut Pen Resting Tray",
+      "title": "Solid Walnut Pen Resting Tray",
+      "price": 649,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 20,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p77",
+      "name": "Ultralight Camping Hammock",
+      "title": "Ultralight Camping Hammock",
+      "price": 1299,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 16,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p78",
+      "name": "Packable Hiking Daypack 20L",
+      "title": "Packable Hiking Daypack 20L",
+      "price": 1899,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 14,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p79",
+      "name": "Ultralight Titanium Spork",
+      "title": "Ultralight Titanium Spork",
+      "price": 299,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 40,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p80",
+      "name": "Aluminum Trekking Pole Pair",
+      "title": "Aluminum Trekking Pole Pair",
+      "price": 1499,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 12,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p81",
+      "name": "Heavy-Duty Pocket Multi-Tool",
+      "title": "Heavy-Duty Pocket Multi-Tool",
+      "price": 799,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 25,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p82",
+      "name": "Reflective Thermal Camp Blanket",
+      "title": "Reflective Thermal Camp Blanket",
+      "price": 699,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 28,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p83",
+      "name": "Insulated Stainless Camp Mug",
+      "title": "Insulated Stainless Camp Mug",
+      "price": 399,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 35,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p84",
+      "name": "Solar Powered LED Flashlight",
+      "title": "Solar Powered LED Flashlight",
+      "price": 599,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p85",
+      "name": "Waterproof Kayak Dry Bag 10L",
+      "title": "Waterproof Kayak Dry Bag 10L",
+      "price": 499,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 30,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p86",
+      "name": "Windproof Outdoor Jet Lighter",
+      "title": "Windproof Outdoor Jet Lighter",
+      "price": 349,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 38,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p87",
+      "name": "Ergonomic Vertical Wireless Mouse",
+      "title": "Ergonomic Vertical Wireless Mouse",
+      "price": 1499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p88",
+      "name": "Wireless Mechanical Numpad",
+      "title": "Wireless Mechanical Numpad",
+      "price": 1299,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 12,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p89",
+      "name": "Foldable Aluminum Laptop Riser",
+      "title": "Foldable Aluminum Laptop Riser",
+      "price": 899,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 24,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p90",
+      "name": "65W GaN Fast Charger Block",
+      "title": "65W GaN Fast Charger Block",
+      "price": 1699,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 18,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p91",
+      "name": "Braided USB-C to C Cable 2m",
+      "title": "Braided USB-C to C Cable 2m",
+      "price": 399,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 45,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p92",
+      "name": "7-in-1 Aluminum USB-C Hub",
+      "title": "7-in-1 Aluminum USB-C Hub",
+      "price": 1999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 14,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p93",
+      "name": "Cable Management Organizer Box",
+      "title": "Cable Management Organizer Box",
+      "price": 499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 27,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p94",
+      "name": "1080p Streaming Web Camera",
+      "title": "1080p Streaming Web Camera",
+      "price": 1799,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 11,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p95",
+      "name": "Precision Screen Cleaner Kit",
+      "title": "Precision Screen Cleaner Kit",
+      "price": 249,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 50,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p96",
+      "name": "Anti-Glare Monitor Light Bar",
+      "title": "Anti-Glare Monitor Light Bar",
+      "price": 2199,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 10,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p97",
+      "name": "Single-Origin Coffee Beans 250g",
+      "title": "Single-Origin Coffee Beans 250g",
+      "price": 599,
+      "currency": "INR",
+      "category": "food",
+      "stock": 25,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p98",
+      "name": "Artisanal Dark Chocolate Trio",
+      "title": "Artisanal Dark Chocolate Trio",
+      "price": 499,
+      "currency": "INR",
+      "category": "food",
+      "stock": 30,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p99",
+      "name": "Raw Forest Honey Jar 350g",
+      "title": "Raw Forest Honey Jar 350g",
+      "price": 399,
+      "currency": "INR",
+      "category": "food",
+      "stock": 32,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p100",
+      "name": "Slow-Roasted Smoked Almonds",
+      "title": "Slow-Roasted Smoked Almonds",
+      "price": 449,
+      "currency": "INR",
+      "category": "food",
+      "stock": 28,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p101",
+      "name": "Ceremonial Matcha Tin 50g",
+      "title": "Ceremonial Matcha Tin 50g",
+      "price": 799,
+      "currency": "INR",
+      "category": "food",
+      "stock": 18,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p102",
+      "name": "Extra Virgin Olive Oil 500ml",
+      "title": "Extra Virgin Olive Oil 500ml",
+      "price": 899,
+      "currency": "INR",
+      "category": "food",
+      "stock": 20,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p103",
+      "name": "Himalayan Pink Salt Grinder",
+      "title": "Himalayan Pink Salt Grinder",
+      "price": 349,
+      "currency": "INR",
+      "category": "food",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p104",
+      "name": "Aromatic Masala Chai Tin",
+      "title": "Aromatic Masala Chai Tin",
+      "price": 299,
+      "currency": "INR",
+      "category": "food",
+      "stock": 40,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p105",
+      "name": "Dried Berry & Nut Snack Medley",
+      "title": "Dried Berry & Nut Snack Medley",
+      "price": 499,
+      "currency": "INR",
+      "category": "food",
+      "stock": 26,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p106",
+      "name": "Artisanal Fermented Hot Sauce Trio",
+      "title": "Artisanal Fermented Hot Sauce Trio",
+      "price": 649,
+      "currency": "INR",
+      "category": "food",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p107",
+      "name": "Manual Burr Coffee Grinder",
+      "title": "Manual Burr Coffee Grinder",
+      "price": 1499,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 16,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p108",
+      "name": "Stainless Steel Pour-Over Cone",
+      "title": "Stainless Steel Pour-Over Cone",
+      "price": 899,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 21,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p109",
+      "name": "Pre-Seasoned Cast Iron Skillet",
+      "title": "Pre-Seasoned Cast Iron Skillet",
+      "price": 799,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 19,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p110",
+      "name": "Acacia End-Grain Cutting Board",
+      "title": "Acacia End-Grain Cutting Board",
+      "price": 999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p111",
+      "name": "Ceramic Drip-Free Oil Cruet",
+      "title": "Ceramic Drip-Free Oil Cruet",
+      "price": 449,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 27,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p112",
+      "name": "Silicone & Wood Utensil Set",
+      "title": "Silicone & Wood Utensil Set",
+      "price": 899,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 23,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p113",
+      "name": "Glass Prep Bowls (Set of 4)",
+      "title": "Glass Prep Bowls (Set of 4)",
+      "price": 699,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 24,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p114",
+      "name": "Precision Digital Kitchen Scale",
+      "title": "Precision Digital Kitchen Scale",
+      "price": 549,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p115",
+      "name": "Double-Wall Glass Espresso Cups",
+      "title": "Double-Wall Glass Espresso Cups",
+      "price": 599,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 26,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p116",
+      "name": "Boston Cocktail Shaker Set",
+      "title": "Boston Cocktail Shaker Set",
+      "price": 749,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 18,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p117",
+      "name": "Wooden Educational Alphabet Blocks",
+      "title": "Wooden Educational Alphabet Blocks",
+      "price": 599,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p118",
+      "name": "Magnetic Color Drawing Pad",
+      "title": "Magnetic Color Drawing Pad",
+      "price": 499,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 19,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p119",
+      "name": "Illustrated Children's Fables Set",
+      "title": "Illustrated Children's Fables Set",
+      "price": 649,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 12,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p120",
+      "name": "Organic Plush Comfort Toy",
+      "title": "Organic Plush Comfort Toy",
+      "price": 399,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p121",
+      "name": "Reference Studio Monitor Speakers",
+      "title": "Reference Studio Monitor Speakers",
+      "price": 4449,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p122",
+      "name": "Bamboo Multi-Tier Desk Organizer Shelf",
+      "title": "Bamboo Multi-Tier Desk Organizer Shelf",
+      "price": 899,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p123",
+      "name": "Horween Leather Passport Wallet & Pen Sleeve",
+      "title": "Horween Leather Passport Wallet & Pen Sleeve",
+      "price": 1349,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p124",
+      "name": "Sapphire Crystal Health & Sleep Tracking Band",
+      "title": "Sapphire Crystal Health & Sleep Tracking Band",
+      "price": 3599,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p125",
+      "name": "Japanese Tomoe River Fountain Pen Notebook (A5)",
+      "title": "Japanese Tomoe River Fountain Pen Notebook (A5)",
+      "price": 599,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p126",
+      "name": "Ultralight Titanium Backpacking Camping Stove",
+      "title": "Ultralight Titanium Backpacking Camping Stove",
+      "price": 1449,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p127",
+      "name": "USB4 40Gbps M.2 NVMe SSD Aluminum Enclosure",
+      "title": "USB4 40Gbps M.2 NVMe SSD Aluminum Enclosure",
+      "price": 2499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p128",
+      "name": "Ethiopian Yirgacheffe Single-Origin Whole Beans (500g)",
+      "title": "Ethiopian Yirgacheffe Single-Origin Whole Beans (500g)",
+      "price": 949,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p129",
+      "name": "Damascus Steel Japanese Chef Knife 8-Inch",
+      "title": "Damascus Steel Japanese Chef Knife 8-Inch",
+      "price": 3599,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p130",
+      "name": "Montessori Wooden Geometric Shape Sorting Box",
+      "title": "Montessori Wooden Geometric Shape Sorting Box",
+      "price": 549,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p131",
+      "name": "USB-C Audio Interface 2x2",
+      "title": "USB-C Audio Interface 2x2",
+      "price": 3849,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p132",
+      "name": "Pure Wool Hand-Woven Rug Runner",
+      "title": "Pure Wool Hand-Woven Rug Runner",
+      "price": 2499,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p133",
+      "name": "Machined Titanium Pocket Key Carabiner",
+      "title": "Machined Titanium Pocket Key Carabiner",
+      "price": 699,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p134",
+      "name": "Titanium Quick-Fit Watch Band (22mm)",
+      "title": "Titanium Quick-Fit Watch Band (22mm)",
+      "price": 1399,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p135",
+      "name": "Solid Brass Precision Drafting Ruler (30cm)",
+      "title": "Solid Brass Precision Drafting Ruler (30cm)",
+      "price": 399,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p136",
+      "name": "Ripstop Hexagonal Waterproof Camping Tarp",
+      "title": "Ripstop Hexagonal Waterproof Camping Tarp",
+      "price": 1749,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p137",
+      "name": "Ergonomic Split Wireless Mechanical Keyboard",
+      "title": "Ergonomic Split Wireless Mechanical Keyboard",
+      "price": 4999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p138",
+      "name": "First-Flush Single-Estate Darjeeling Black Tea (100g)",
+      "title": "First-Flush Single-Estate Darjeeling Black Tea (100g)",
+      "price": 699,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p139",
+      "name": "Hand-Carved Olive Wood Cooking Utensil Set (4-Piece)",
+      "title": "Hand-Carved Olive Wood Cooking Utensil Set (4-Piece)",
+      "price": 999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p140",
+      "name": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub)",
+      "title": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub)",
+      "price": 249,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p141",
+      "name": "Open-Back Dynamic Audiophile Headphones",
+      "title": "Open-Back Dynamic Audiophile Headphones",
+      "price": 4949,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p142",
+      "name": "Dimmable Industrial Edison Bedside Lamp",
+      "title": "Dimmable Industrial Edison Bedside Lamp",
+      "price": 1299,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p143",
+      "name": "Waxed Canvas Travel Tool & Cable Roll",
+      "title": "Waxed Canvas Travel Tool & Cable Roll",
+      "price": 949,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p144",
+      "name": "GPS Multisport Outdoor Fitness Smartwatch",
+      "title": "GPS Multisport Outdoor Fitness Smartwatch",
+      "price": 4999,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p145",
+      "name": "Archival Fountain Pen Bottled Ink (50ml)",
+      "title": "Archival Fountain Pen Bottled Ink (50ml)",
+      "price": 499,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p146",
+      "name": "Vacuum Insulated Stainless Steel Tumbler (750ml)",
+      "title": "Vacuum Insulated Stainless Steel Tumbler (750ml)",
+      "price": 649,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p147",
+      "name": "3-in-1 MagSafe Aluminum Foldable Charging Stand",
+      "title": "3-in-1 MagSafe Aluminum Foldable Charging Stand",
+      "price": 2799,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p148",
+      "name": "Artisanal 85% Single-Origin Dark Chocolate Bars (3-Pack)",
+      "title": "Artisanal 85% Single-Origin Dark Chocolate Bars (3-Pack)",
+      "price": 599,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p149",
+      "name": "Artisanal Glazed Ceramic Ramen Bowl Pair with Chopsticks",
+      "title": "Artisanal Glazed Ceramic Ramen Bowl Pair with Chopsticks",
+      "price": 1099,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p150",
+      "name": "Handcrafted Wooden Train Engine & Carriages",
+      "title": "Handcrafted Wooden Train Engine & Carriages",
+      "price": 699,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p151",
+      "name": "Acoustic Treatment Foam Panels (12-Pack)",
+      "title": "Acoustic Treatment Foam Panels (12-Pack)",
+      "price": 1249,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p152",
+      "name": "Glazed Ceramic Planter with Brass Saucer",
+      "title": "Glazed Ceramic Planter with Brass Saucer",
+      "price": 649,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p153",
+      "name": "Polarized Classic Wayfarer Sunglasses",
+      "title": "Polarized Classic Wayfarer Sunglasses",
+      "price": 1749,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p154",
+      "name": "Bluetooth Chest Strap Heart Rate Monitor",
+      "title": "Bluetooth Chest Strap Heart Rate Monitor",
+      "price": 2299,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p155",
+      "name": "Letterpress Heavyweight Cotton Cards (Set of 12)",
+      "title": "Letterpress Heavyweight Cotton Cards (Set of 12)",
+      "price": 299,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p156",
+      "name": "Compact Aluminum Folding Camp Chair",
+      "title": "Compact Aluminum Folding Camp Chair",
+      "price": 1849,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p157",
+      "name": "Braided 240W Thunderbolt 4 Fast Charge Cable",
+      "title": "Braided 240W Thunderbolt 4 Fast Charge Cable",
+      "price": 799,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p158",
+      "name": "Wild Raw Forest Blossom Honey (500g)",
+      "title": "Wild Raw Forest Blossom Honey (500g)",
+      "price": 549,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p159",
+      "name": "Variable Temperature Gooseneck Electric Kettle (1L)",
+      "title": "Variable Temperature Gooseneck Electric Kettle (1L)",
+      "price": 3399,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p160",
+      "name": "Magnetic Storyboard Puzzle & Scene Board",
+      "title": "Magnetic Storyboard Puzzle & Scene Board",
+      "price": 449,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p161",
+      "name": "Dynamic Broadcast Cardioid Microphone",
+      "title": "Dynamic Broadcast Cardioid Microphone",
+      "price": 3249,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p162",
+      "name": "Natural Japanese Noren Linen Door Curtain",
+      "title": "Natural Japanese Noren Linen Door Curtain",
+      "price": 999,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p163",
+      "name": "Top-Grain Leather Toiletry Dopp Kit",
+      "title": "Top-Grain Leather Toiletry Dopp Kit",
+      "price": 1549,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p164",
+      "name": "Solar-Powered Hybrid Expedition Watch",
+      "title": "Solar-Powered Hybrid Expedition Watch",
+      "price": 4399,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p165",
+      "name": "Minimalist Machined Aluminum Pen Tray",
+      "title": "Minimalist Machined Aluminum Pen Tray",
+      "price": 349,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p166",
+      "name": "Carbon Fiber Anti-Shock Trekking Poles (Pair)",
+      "title": "Carbon Fiber Anti-Shock Trekking Poles (Pair)",
+      "price": 1949,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p167",
+      "name": "100W GaN 4-Port USB-C Rapid Travel Charger",
+      "title": "100W GaN 4-Port USB-C Rapid Travel Charger",
+      "price": 2299,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p168",
+      "name": "Ceremonial Grade Uji Japanese Matcha Tin (30g)",
+      "title": "Ceremonial Grade Uji Japanese Matcha Tin (30g)",
+      "price": 1249,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p169",
+      "name": "Solid Heavy Granite Mortar and Pestle (15cm)",
+      "title": "Solid Heavy Granite Mortar and Pestle (15cm)",
+      "price": 1299,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p170",
+      "name": "Soft Cotton Animal Activity Playmat",
+      "title": "Soft Cotton Animal Activity Playmat",
+      "price": 899,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p171",
+      "name": "Braided XLR Microphone Cable (3m)",
+      "title": "Braided XLR Microphone Cable (3m)",
+      "price": 399,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p172",
+      "name": "Organic Washed Linen Table Runner",
+      "title": "Organic Washed Linen Table Runner",
+      "price": 749,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p173",
+      "name": "Stainless Steel Engraved Collar Stays (6-Pack)",
+      "title": "Stainless Steel Engraved Collar Stays (6-Pack)",
+      "price": 399,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p174",
+      "name": "Fluoroelastomer Breathable Sport Band (3-Pack)",
+      "title": "Fluoroelastomer Breathable Sport Band (3-Pack)",
+      "price": 699,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p175",
+      "name": "Grid Refillable Leather Travelers Notebook",
+      "title": "Grid Refillable Leather Travelers Notebook",
+      "price": 1099,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p176",
+      "name": "Heavy-Duty Anodized Locking Carabiner (4-Pack)",
+      "title": "Heavy-Duty Anodized Locking Carabiner (4-Pack)",
+      "price": 349,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p177",
+      "name": "4K HDR Streaming Webcam with Privacy Shutter",
+      "title": "4K HDR Streaming Webcam with Privacy Shutter",
+      "price": 3499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p178",
+      "name": "Cold-Pressed Extra Virgin Olive Oil (500ml)",
+      "title": "Cold-Pressed Extra Virgin Olive Oil (500ml)",
+      "price": 849,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p179",
+      "name": "Double-Wall Stainless Steel French Press Coffee Maker",
+      "title": "Double-Wall Stainless Steel French Press Coffee Maker",
+      "price": 1599,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p180",
+      "name": "Illustrated Solar System Hardcover Board Book",
+      "title": "Illustrated Solar System Hardcover Board Book",
+      "price": 329,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p181",
+      "name": "High-Fidelity Portable Headphone Amp",
+      "title": "High-Fidelity Portable Headphone Amp",
+      "price": 2749,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p182",
+      "name": "Hand-Carved Sandstone Sculptural Bookends",
+      "title": "Hand-Carved Sandstone Sculptural Bookends",
+      "price": 1199,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p183",
+      "name": "Silk Knit Classic Necktie",
+      "title": "Silk Knit Classic Necktie",
+      "price": 849,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p184",
+      "name": "Smart Fitness Finger Ring Sensor",
+      "title": "Smart Fitness Finger Ring Sensor",
+      "price": 4099,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p185",
+      "name": "Solid Copper Hexagonal Ballpoint Pen",
+      "title": "Solid Copper Hexagonal Ballpoint Pen",
+      "price": 799,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p186",
+      "name": "Quick-Dry Microfiber Camp & Travel Towel",
+      "title": "Quick-Dry Microfiber Camp & Travel Towel",
+      "price": 399,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p187",
+      "name": "Wireless Bluetooth Trackball Mouse",
+      "title": "Wireless Bluetooth Trackball Mouse",
+      "price": 1999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p188",
+      "name": "Madagascar Bourbon Vanilla Bean Pods (5-Pack)",
+      "title": "Madagascar Bourbon Vanilla Bean Pods (5-Pack)",
+      "price": 749,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p189",
+      "name": "Manual Conical Burr Coffee Hand Grinder (Stainless)",
+      "title": "Manual Conical Burr Coffee Hand Grinder (Stainless)",
+      "price": 1999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p190",
+      "name": "Wooden Xylophone Musical Instrument for Toddlers",
+      "title": "Wooden Xylophone Musical Instrument for Toddlers",
+      "price": 499,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p191",
+      "name": "Turntable Phono Preamplifier Box",
+      "title": "Turntable Phono Preamplifier Box",
+      "price": 2149,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p192",
+      "name": "Smart Aroma Ultrasonic Mist Diffuser",
+      "title": "Smart Aroma Ultrasonic Mist Diffuser",
+      "price": 1599,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p193",
+      "name": "Full-Grain Leather Luggage Tag Set",
+      "title": "Full-Grain Leather Luggage Tag Set",
+      "price": 499,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p194",
+      "name": "Magnetic Smartwatch Desktop Charging Cradle",
+      "title": "Magnetic Smartwatch Desktop Charging Cradle",
+      "price": 599,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p195",
+      "name": "Hardbound Bullet Grid Journal with Pen Loop",
+      "title": "Hardbound Bullet Grid Journal with Pen Loop",
+      "price": 449,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p196",
+      "name": "Rechargeable High-Lumen Headlamp (IPX8)",
+      "title": "Rechargeable High-Lumen Headlamp (IPX8)",
+      "price": 1149,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p197",
+      "name": "Monitor Light Bar with Auto Dimming & Remote",
+      "title": "Monitor Light Bar with Auto Dimming & Remote",
+      "price": 1899,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p198",
+      "name": "Smoked Himalayan Sea Salt Crystals Grinder",
+      "title": "Smoked Himalayan Sea Salt Crystals Grinder",
+      "price": 399,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p199",
+      "name": "Professional Stainless Steel Mandoline Slicer",
+      "title": "Professional Stainless Steel Mandoline Slicer",
+      "price": 999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p200",
+      "name": "Organic Cotton Washable Baby Rattle Pair",
+      "title": "Organic Cotton Washable Baby Rattle Pair",
+      "price": 199,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p201",
+      "name": "Compact Bluetooth Audio Receiver DAC",
+      "title": "Compact Bluetooth Audio Receiver DAC",
+      "price": 1149,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p202",
+      "name": "Handmade Soy Candle in Terrazzo Jar",
+      "title": "Handmade Soy Candle in Terrazzo Jar",
+      "price": 549,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p203",
+      "name": "Minimalist Bifold Money Clip Wallet",
+      "title": "Minimalist Bifold Money Clip Wallet",
+      "price": 799,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p204",
+      "name": "Tempered Glass Smartwatch Screen Protectors (4-Pack)",
+      "title": "Tempered Glass Smartwatch Screen Protectors (4-Pack)",
+      "price": 349,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p205",
+      "name": "Brass Page Markers & Index Clips (20-Pack)",
+      "title": "Brass Page Markers & Index Clips (20-Pack)",
+      "price": 199,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p206",
+      "name": "Solar Power Bank with Flashlight (20000mAh)",
+      "title": "Solar Power Bank with Flashlight (20000mAh)",
+      "price": 2249,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p207",
+      "name": "Aluminum Adjustable Laptop & Tablet Riser",
+      "title": "Aluminum Adjustable Laptop & Tablet Riser",
+      "price": 1199,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p208",
+      "name": "Aged Modena Balsamic Vinegar IGP (250ml)",
+      "title": "Aged Modena Balsamic Vinegar IGP (250ml)",
+      "price": 949,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p209",
+      "name": "Pre-Seasoned Cast Iron Reversible Grill & Griddle",
+      "title": "Pre-Seasoned Cast Iron Reversible Grill & Griddle",
+      "price": 1499,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p210",
+      "name": "Montessori Wooden Geometric Shape Sorting Box (Elite)",
+      "title": "Montessori Wooden Geometric Shape Sorting Box (Elite)",
+      "price": 549,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p211",
+      "name": "In-Ear Stage Monitor Earphones (Dual Driver)",
+      "title": "In-Ear Stage Monitor Earphones (Dual Driver)",
+      "price": 1849,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p212",
+      "name": "Solid Brass Wall Hook Rack (4-Prong)",
+      "title": "Solid Brass Wall Hook Rack (4-Prong)",
+      "price": 799,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p213",
+      "name": "Reflective Paracord Survival Bracelet",
+      "title": "Reflective Paracord Survival Bracelet",
+      "price": 299,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p214",
+      "name": "Nylon Braided Alpine Loop Watch Strap",
+      "title": "Nylon Braided Alpine Loop Watch Strap",
+      "price": 499,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p215",
+      "name": "Dual-Tip Archival Calligraphy Marker Set",
+      "title": "Dual-Tip Archival Calligraphy Marker Set",
+      "price": 399,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p216",
+      "name": "Ultralight Goose Down Camp Blanket",
+      "title": "Ultralight Goose Down Camp Blanket",
+      "price": 3449,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p217",
+      "name": "Ultra-Fast 65W Magnetic Wireless Car Mount",
+      "title": "Ultra-Fast 65W Magnetic Wireless Car Mount",
+      "price": 1399,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p218",
+      "name": "Organic Roasted Truffle Spiced Almonds (250g)",
+      "title": "Organic Roasted Truffle Spiced Almonds (250g)",
+      "price": 499,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p219",
+      "name": "Heat-Resistant Borosilicate Measuring Beakers (3-Set)",
+      "title": "Heat-Resistant Borosilicate Measuring Beakers (3-Set)",
+      "price": 649,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p220",
+      "name": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub) (Elite)",
+      "title": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub) (Elite)",
+      "price": 249,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p221",
+      "name": "Boom Arm Heavy-Duty Mic Stand",
+      "title": "Boom Arm Heavy-Duty Mic Stand",
+      "price": 849,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p222",
+      "name": "Handblown Amber Glass Vase Set",
+      "title": "Handblown Amber Glass Vase Set",
+      "price": 899,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p223",
+      "name": "Cashmere & Merino Wool Blend Scarf",
+      "title": "Cashmere & Merino Wool Blend Scarf",
+      "price": 1949,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p224",
+      "name": "Leather Deployant Clasp Watch Strap (20mm)",
+      "title": "Leather Deployant Clasp Watch Strap (20mm)",
+      "price": 899,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p225",
+      "name": "Solid Walnut Desk Blotter & Mat",
+      "title": "Solid Walnut Desk Blotter & Mat",
+      "price": 1299,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p226",
+      "name": "Waterproof Heavy-Duty Dry Duffel Bag (30L)",
+      "title": "Waterproof Heavy-Duty Dry Duffel Bag (30L)",
+      "price": 1249,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p227",
+      "name": "USB-C 8-in-1 Dual HDMI Hub with 100W PD",
+      "title": "USB-C 8-in-1 Dual HDMI Hub with 100W PD",
+      "price": 1999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p228",
+      "name": "Single-Estate Colombian Supremo Whole Beans (500g)",
+      "title": "Single-Estate Colombian Supremo Whole Beans (500g)",
+      "price": 799,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p229",
+      "name": "Magnetic Acacia Kitchen Knife Block Wall Strip",
+      "title": "Magnetic Acacia Kitchen Knife Block Wall Strip",
+      "price": 899,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p230",
+      "name": "Handcrafted Wooden Train Engine & Carriages (Elite)",
+      "title": "Handcrafted Wooden Train Engine & Carriages (Elite)",
+      "price": 699,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p231",
+      "name": "Microphone Pop Filter & Shock Mount Set",
+      "title": "Microphone Pop Filter & Shock Mount Set",
+      "price": 499,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p232",
+      "name": "Woven Cotton Macrame Plant Hanger",
+      "title": "Woven Cotton Macrame Plant Hanger",
+      "price": 399,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p233",
+      "name": "Solid Brass Minimalist Money Clip",
+      "title": "Solid Brass Minimalist Money Clip",
+      "price": 449,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p234",
+      "name": "Pulse Oximeter & Activity Tracker Clip",
+      "title": "Pulse Oximeter & Activity Tracker Clip",
+      "price": 1599,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p235",
+      "name": "Self-Healing Rotary Cutting Mat (A3)",
+      "title": "Self-Healing Rotary Cutting Mat (A3)",
+      "price": 549,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p236",
+      "name": "Portable Water Filtration Straw & Pouch",
+      "title": "Portable Water Filtration Straw & Pouch",
+      "price": 849,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p237",
+      "name": "Low-Profile Custom Keycap Set (PBT Double-Shot)",
+      "title": "Low-Profile Custom Keycap Set (PBT Double-Shot)",
+      "price": 999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p238",
+      "name": "Artisanal French Butter Sablé Biscuits (Box of 16)",
+      "title": "Artisanal French Butter Sablé Biscuits (Box of 16)",
+      "price": 449,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p239",
+      "name": "Digital Instant-Read Meat & Food Thermometer",
+      "title": "Digital Instant-Read Meat & Food Thermometer",
+      "price": 599,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p240",
+      "name": "Magnetic Storyboard Puzzle & Scene Board (Elite)",
+      "title": "Magnetic Storyboard Puzzle & Scene Board (Elite)",
+      "price": 449,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p241",
+      "name": "Active Noise-Cancelling Sleep Earbuds",
+      "title": "Active Noise-Cancelling Sleep Earbuds",
+      "price": 2449,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p242",
+      "name": "Velvet Accent Throw Pillow Pair",
+      "title": "Velvet Accent Throw Pillow Pair",
+      "price": 849,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p243",
+      "name": "Heavyweight Water-Resistant Canvas Backpack",
+      "title": "Heavyweight Water-Resistant Canvas Backpack",
+      "price": 3049,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p244",
+      "name": "Milano Stainless Steel Mesh Watch Band",
+      "title": "Milano Stainless Steel Mesh Watch Band",
+      "price": 799,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p245",
+      "name": "Wax Seal Stamp Kit with Melting Spoon & Wax",
+      "title": "Wax Seal Stamp Kit with Melting Spoon & Wax",
+      "price": 499,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p246",
+      "name": "Multi-Tool Stainless Steel Camping Hatchet",
+      "title": "Multi-Tool Stainless Steel Camping Hatchet",
+      "price": 1449,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p247",
+      "name": "Desktop Cable Management Raceway & Clips Set",
+      "title": "Desktop Cable Management Raceway & Clips Set",
+      "price": 449,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p248",
+      "name": "Handcrafted Organic Hazelnut Cocoa Spread",
+      "title": "Handcrafted Organic Hazelnut Cocoa Spread",
+      "price": 479,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p249",
+      "name": "Silicone Baking Mats & Pastry Scraper Set",
+      "title": "Silicone Baking Mats & Pastry Scraper Set",
+      "price": 549,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p250",
+      "name": "Soft Cotton Animal Activity Playmat (Elite)",
+      "title": "Soft Cotton Animal Activity Playmat (Elite)",
+      "price": 899,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p251",
+      "name": "Desktop Wooden Speaker Isolation Pads",
+      "title": "Desktop Wooden Speaker Isolation Pads",
+      "price": 599,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p252",
+      "name": "Minimalist Wall Mounted Key Holder & Shelf",
+      "title": "Minimalist Wall Mounted Key Holder & Shelf",
+      "price": 499,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p253",
+      "name": "Polarized Clubmaster Style Sunglasses",
+      "title": "Polarized Clubmaster Style Sunglasses",
+      "price": 1649,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p254",
+      "name": "Waterproof Swimming Pace Tracker Band",
+      "title": "Waterproof Swimming Pace Tracker Band",
+      "price": 2799,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p255",
+      "name": "Mechanical Drafting Pencil (0.5mm Full Metal)",
+      "title": "Mechanical Drafting Pencil (0.5mm Full Metal)",
+      "price": 329,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p256",
+      "name": "Compact Survival First Aid Kit (Pouch)",
+      "title": "Compact Survival First Aid Kit (Pouch)",
+      "price": 599,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p257",
+      "name": "Precision Electric Screwdriver Tool Kit (24-in-1)",
+      "title": "Precision Electric Screwdriver Tool Kit (24-in-1)",
+      "price": 1499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p258",
+      "name": "Organic Infused Earl Grey Loose Leaf Tin (125g)",
+      "title": "Organic Infused Earl Grey Loose Leaf Tin (125g)",
+      "price": 549,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p259",
+      "name": "Heavyweight Stainless Steel Mixing Bowls with Lids (3-Pack)",
+      "title": "Heavyweight Stainless Steel Mixing Bowls with Lids (3-Pack)",
+      "price": 949,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p260",
+      "name": "Illustrated Solar System Hardcover Board Book (Elite)",
+      "title": "Illustrated Solar System Hardcover Board Book (Elite)",
+      "price": 329,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p261",
+      "name": "Coaxial Hi-Fi Digital Audio Cable",
+      "title": "Coaxial Hi-Fi Digital Audio Cable",
+      "price": 349,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p262",
+      "name": "Handcrafted Rattan Storage Basket",
+      "title": "Handcrafted Rattan Storage Basket",
+      "price": 949,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p263",
+      "name": "Full Grain Leather Eyewear Sleeve",
+      "title": "Full Grain Leather Eyewear Sleeve",
+      "price": 549,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p264",
+      "name": "Dual Wireless Charging Stand for Watch & Phone",
+      "title": "Dual Wireless Charging Stand for Watch & Phone",
+      "price": 1699,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p265",
+      "name": "Erasable Fine Gel Ink Pens (Box of 8)",
+      "title": "Erasable Fine Gel Ink Pens (Box of 8)",
+      "price": 249,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p266",
+      "name": "Inflatable Ergonomic Camping Pillow",
+      "title": "Inflatable Ergonomic Camping Pillow",
+      "price": 349,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p267",
+      "name": "Silicone Anti-Dust Port Covers & Cleaning Putty",
+      "title": "Silicone Anti-Dust Port Covers & Cleaning Putty",
+      "price": 199,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p268",
+      "name": "Gourmet Savory Hot Sauce Trio Box",
+      "title": "Gourmet Savory Hot Sauce Trio Box",
+      "price": 699,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p269",
+      "name": "Cocktail Muddler & Jigger Bartender Tool Set",
+      "title": "Cocktail Muddler & Jigger Bartender Tool Set",
+      "price": 499,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p270",
+      "name": "Wooden Xylophone Musical Instrument for Toddlers (Elite)",
+      "title": "Wooden Xylophone Musical Instrument for Toddlers (Elite)",
+      "price": 499,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p271",
+      "name": "Studio Reference Audio Calibration Mic",
+      "title": "Studio Reference Audio Calibration Mic",
+      "price": 1549,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p272",
+      "name": "Cast Iron Pillar Candle Stand Trio",
+      "title": "Cast Iron Pillar Candle Stand Trio",
+      "price": 1099,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p273",
+      "name": "Compact RFID Travel Neck Pouch",
+      "title": "Compact RFID Travel Neck Pouch",
+      "price": 649,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p274",
+      "name": "Sapphire Crystal Health & Sleep Tracking Band (Signature)",
+      "title": "Sapphire Crystal Health & Sleep Tracking Band (Signature)",
+      "price": 3599,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p275",
+      "name": "Japanese Tomoe River Fountain Pen Notebook (A5) (Heritage)",
+      "title": "Japanese Tomoe River Fountain Pen Notebook (A5) (Heritage)",
+      "price": 599,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p276",
+      "name": "Ultralight Titanium Backpacking Camping Stove (Nordic)",
+      "title": "Ultralight Titanium Backpacking Camping Stove (Nordic)",
+      "price": 1449,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p277",
+      "name": "USB4 40Gbps M.2 NVMe SSD Aluminum Enclosure (Artisan)",
+      "title": "USB4 40Gbps M.2 NVMe SSD Aluminum Enclosure (Artisan)",
+      "price": 2499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p278",
+      "name": "Ethiopian Yirgacheffe Single-Origin Whole Beans (500g) (Refined)",
+      "title": "Ethiopian Yirgacheffe Single-Origin Whole Beans (500g) (Refined)",
+      "price": 949,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p279",
+      "name": "Damascus Steel Japanese Chef Knife 8-Inch (Custom)",
+      "title": "Damascus Steel Japanese Chef Knife 8-Inch (Custom)",
+      "price": 3599,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p280",
+      "name": "Organic Cotton Washable Baby Rattle Pair (Elite)",
+      "title": "Organic Cotton Washable Baby Rattle Pair (Elite)",
+      "price": 199,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p281",
+      "name": "Waterproof Floating Pool Speaker",
+      "title": "Waterproof Floating Pool Speaker",
+      "price": 1449,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p282",
+      "name": "Felt Bedside Hanging Organizer Caddy",
+      "title": "Felt Bedside Hanging Organizer Caddy",
+      "price": 349,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p283",
+      "name": "Magnetic Quick-Release Key Organizer Ring",
+      "title": "Magnetic Quick-Release Key Organizer Ring",
+      "price": 399,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p284",
+      "name": "Titanium Quick-Fit Watch Band (22mm) (Signature)",
+      "title": "Titanium Quick-Fit Watch Band (22mm) (Signature)",
+      "price": 1399,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p285",
+      "name": "Solid Brass Precision Drafting Ruler (30cm) (Heritage)",
+      "title": "Solid Brass Precision Drafting Ruler (30cm) (Heritage)",
+      "price": 399,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p286",
+      "name": "Ripstop Hexagonal Waterproof Camping Tarp (Nordic)",
+      "title": "Ripstop Hexagonal Waterproof Camping Tarp (Nordic)",
+      "price": 1749,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p287",
+      "name": "Ergonomic Split Wireless Mechanical Keyboard (Artisan)",
+      "title": "Ergonomic Split Wireless Mechanical Keyboard (Artisan)",
+      "price": 4999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p288",
+      "name": "First-Flush Single-Estate Darjeeling Black Tea (100g) (Refined)",
+      "title": "First-Flush Single-Estate Darjeeling Black Tea (100g) (Refined)",
+      "price": 699,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p289",
+      "name": "Hand-Carved Olive Wood Cooking Utensil Set (4-Piece) (Custom)",
+      "title": "Hand-Carved Olive Wood Cooking Utensil Set (4-Piece) (Custom)",
+      "price": 999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p290",
+      "name": "Montessori Wooden Geometric Shape Sorting Box (Pro Series)",
+      "title": "Montessori Wooden Geometric Shape Sorting Box (Pro Series)",
+      "price": 549,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p291",
+      "name": "Mini Optical Toslink DAC Converter",
+      "title": "Mini Optical Toslink DAC Converter",
+      "price": 749,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p292",
+      "name": "Natural Cedar Moth-Repellent Closet Blocks",
+      "title": "Natural Cedar Moth-Repellent Closet Blocks",
+      "price": 299,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p293",
+      "name": "Leather Watch Travel Storage Roll (3-Slot)",
+      "title": "Leather Watch Travel Storage Roll (3-Slot)",
+      "price": 1449,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p294",
+      "name": "GPS Multisport Outdoor Fitness Smartwatch (Signature)",
+      "title": "GPS Multisport Outdoor Fitness Smartwatch (Signature)",
+      "price": 4999,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p295",
+      "name": "Archival Fountain Pen Bottled Ink (50ml) (Heritage)",
+      "title": "Archival Fountain Pen Bottled Ink (50ml) (Heritage)",
+      "price": 499,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p296",
+      "name": "Vacuum Insulated Stainless Steel Tumbler (750ml) (Nordic)",
+      "title": "Vacuum Insulated Stainless Steel Tumbler (750ml) (Nordic)",
+      "price": 649,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p297",
+      "name": "3-in-1 MagSafe Aluminum Foldable Charging Stand (Artisan)",
+      "title": "3-in-1 MagSafe Aluminum Foldable Charging Stand (Artisan)",
+      "price": 2799,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p298",
+      "name": "Artisanal 85% Single-Origin Dark Chocolate Bars (3-Pack) (Refined)",
+      "title": "Artisanal 85% Single-Origin Dark Chocolate Bars (3-Pack) (Refined)",
+      "price": 599,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p299",
+      "name": "Artisanal Glazed Ceramic Ramen Bowl Pair with Chopsticks (Custom)",
+      "title": "Artisanal Glazed Ceramic Ramen Bowl Pair with Chopsticks (Custom)",
+      "price": 1099,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p300",
+      "name": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub) (Pro Series)",
+      "title": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub) (Pro Series)",
+      "price": 249,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p301",
+      "name": "Vintage Velvet Record Slipmat",
+      "title": "Vintage Velvet Record Slipmat",
+      "price": 299,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p302",
+      "name": "Rechargeable Motion Sensor Cabinet Light (2-Pack)",
+      "title": "Rechargeable Motion Sensor Cabinet Light (2-Pack)",
+      "price": 699,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p303",
+      "name": "Waxed Canvas Commuter Crossbody Bag",
+      "title": "Waxed Canvas Commuter Crossbody Bag",
+      "price": 1849,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p304",
+      "name": "Bluetooth Chest Strap Heart Rate Monitor (Signature)",
+      "title": "Bluetooth Chest Strap Heart Rate Monitor (Signature)",
+      "price": 2299,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p305",
+      "name": "Letterpress Heavyweight Cotton Cards (Set of 12) (Heritage)",
+      "title": "Letterpress Heavyweight Cotton Cards (Set of 12) (Heritage)",
+      "price": 299,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p306",
+      "name": "Compact Aluminum Folding Camp Chair (Nordic)",
+      "title": "Compact Aluminum Folding Camp Chair (Nordic)",
+      "price": 1849,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p307",
+      "name": "Braided 240W Thunderbolt 4 Fast Charge Cable (Artisan)",
+      "title": "Braided 240W Thunderbolt 4 Fast Charge Cable (Artisan)",
+      "price": 799,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p308",
+      "name": "Wild Raw Forest Blossom Honey (500g) (Refined)",
+      "title": "Wild Raw Forest Blossom Honey (500g) (Refined)",
+      "price": 549,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p309",
+      "name": "Variable Temperature Gooseneck Electric Kettle (1L) (Custom)",
+      "title": "Variable Temperature Gooseneck Electric Kettle (1L) (Custom)",
+      "price": 3399,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p310",
+      "name": "Handcrafted Wooden Train Engine & Carriages (Pro Series)",
+      "title": "Handcrafted Wooden Train Engine & Carriages (Pro Series)",
+      "price": 699,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p311",
+      "name": "Leather Headband Replacement Cushion",
+      "title": "Leather Headband Replacement Cushion",
+      "price": 249,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p312",
+      "name": "Linen Laundry Hamper with Wooden Handles",
+      "title": "Linen Laundry Hamper with Wooden Handles",
+      "price": 1249,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p313",
+      "name": "Stainless Steel Pocket Pill Case Capsule",
+      "title": "Stainless Steel Pocket Pill Case Capsule",
+      "price": 349,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p314",
+      "name": "Solar-Powered Hybrid Expedition Watch (Signature)",
+      "title": "Solar-Powered Hybrid Expedition Watch (Signature)",
+      "price": 4399,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p315",
+      "name": "Minimalist Machined Aluminum Pen Tray (Heritage)",
+      "title": "Minimalist Machined Aluminum Pen Tray (Heritage)",
+      "price": 349,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p316",
+      "name": "Carbon Fiber Anti-Shock Trekking Poles (Pair) (Nordic)",
+      "title": "Carbon Fiber Anti-Shock Trekking Poles (Pair) (Nordic)",
+      "price": 1949,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p317",
+      "name": "100W GaN 4-Port USB-C Rapid Travel Charger (Artisan)",
+      "title": "100W GaN 4-Port USB-C Rapid Travel Charger (Artisan)",
+      "price": 2299,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p318",
+      "name": "Ceremonial Grade Uji Japanese Matcha Tin (30g) (Refined)",
+      "title": "Ceremonial Grade Uji Japanese Matcha Tin (30g) (Refined)",
+      "price": 1249,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p319",
+      "name": "Solid Heavy Granite Mortar and Pestle (15cm) (Custom)",
+      "title": "Solid Heavy Granite Mortar and Pestle (15cm) (Custom)",
+      "price": 1299,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p320",
+      "name": "Magnetic Storyboard Puzzle & Scene Board (Pro Series)",
+      "title": "Magnetic Storyboard Puzzle & Scene Board (Pro Series)",
+      "price": 449,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p321",
+      "name": "Reference Studio Monitor Speakers (Pro Series)",
+      "title": "Reference Studio Monitor Speakers (Pro Series)",
+      "price": 4449,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p322",
+      "name": "Bamboo Multi-Tier Desk Organizer Shelf (Studio Edition)",
+      "title": "Bamboo Multi-Tier Desk Organizer Shelf (Studio Edition)",
+      "price": 899,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p323",
+      "name": "Horween Leather Passport Wallet & Pen Sleeve (Craft)",
+      "title": "Horween Leather Passport Wallet & Pen Sleeve (Craft)",
+      "price": 1349,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p324",
+      "name": "Fluoroelastomer Breathable Sport Band (3-Pack) (Signature)",
+      "title": "Fluoroelastomer Breathable Sport Band (3-Pack) (Signature)",
+      "price": 699,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p325",
+      "name": "Grid Refillable Leather Travelers Notebook (Heritage)",
+      "title": "Grid Refillable Leather Travelers Notebook (Heritage)",
+      "price": 1099,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p326",
+      "name": "Heavy-Duty Anodized Locking Carabiner (4-Pack) (Nordic)",
+      "title": "Heavy-Duty Anodized Locking Carabiner (4-Pack) (Nordic)",
+      "price": 349,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p327",
+      "name": "4K HDR Streaming Webcam with Privacy Shutter (Artisan)",
+      "title": "4K HDR Streaming Webcam with Privacy Shutter (Artisan)",
+      "price": 3499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p328",
+      "name": "Cold-Pressed Extra Virgin Olive Oil (500ml) (Refined)",
+      "title": "Cold-Pressed Extra Virgin Olive Oil (500ml) (Refined)",
+      "price": 849,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p329",
+      "name": "Double-Wall Stainless Steel French Press Coffee Maker (Custom)",
+      "title": "Double-Wall Stainless Steel French Press Coffee Maker (Custom)",
+      "price": 1599,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p330",
+      "name": "Soft Cotton Animal Activity Playmat (Pro Series)",
+      "title": "Soft Cotton Animal Activity Playmat (Pro Series)",
+      "price": 899,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p331",
+      "name": "USB-C Audio Interface 2x2 (Pro Series)",
+      "title": "USB-C Audio Interface 2x2 (Pro Series)",
+      "price": 3849,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p332",
+      "name": "Pure Wool Hand-Woven Rug Runner (Studio Edition)",
+      "title": "Pure Wool Hand-Woven Rug Runner (Studio Edition)",
+      "price": 2499,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p333",
+      "name": "Machined Titanium Pocket Key Carabiner (Craft)",
+      "title": "Machined Titanium Pocket Key Carabiner (Craft)",
+      "price": 699,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p334",
+      "name": "Smart Fitness Finger Ring Sensor (Signature)",
+      "title": "Smart Fitness Finger Ring Sensor (Signature)",
+      "price": 4099,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p335",
+      "name": "Solid Copper Hexagonal Ballpoint Pen (Heritage)",
+      "title": "Solid Copper Hexagonal Ballpoint Pen (Heritage)",
+      "price": 799,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p336",
+      "name": "Quick-Dry Microfiber Camp & Travel Towel (Nordic)",
+      "title": "Quick-Dry Microfiber Camp & Travel Towel (Nordic)",
+      "price": 399,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p337",
+      "name": "Wireless Bluetooth Trackball Mouse (Artisan)",
+      "title": "Wireless Bluetooth Trackball Mouse (Artisan)",
+      "price": 1999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p338",
+      "name": "Madagascar Bourbon Vanilla Bean Pods (5-Pack) (Refined)",
+      "title": "Madagascar Bourbon Vanilla Bean Pods (5-Pack) (Refined)",
+      "price": 749,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p339",
+      "name": "Manual Conical Burr Coffee Hand Grinder (Stainless) (Custom)",
+      "title": "Manual Conical Burr Coffee Hand Grinder (Stainless) (Custom)",
+      "price": 1999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p340",
+      "name": "Illustrated Solar System Hardcover Board Book (Pro Series)",
+      "title": "Illustrated Solar System Hardcover Board Book (Pro Series)",
+      "price": 329,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p341",
+      "name": "Open-Back Dynamic Audiophile Headphones (Pro Series)",
+      "title": "Open-Back Dynamic Audiophile Headphones (Pro Series)",
+      "price": 4949,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p342",
+      "name": "Dimmable Industrial Edison Bedside Lamp (Studio Edition)",
+      "title": "Dimmable Industrial Edison Bedside Lamp (Studio Edition)",
+      "price": 1299,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p343",
+      "name": "Waxed Canvas Travel Tool & Cable Roll (Craft)",
+      "title": "Waxed Canvas Travel Tool & Cable Roll (Craft)",
+      "price": 949,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p344",
+      "name": "Magnetic Smartwatch Desktop Charging Cradle (Signature)",
+      "title": "Magnetic Smartwatch Desktop Charging Cradle (Signature)",
+      "price": 599,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p345",
+      "name": "Hardbound Bullet Grid Journal with Pen Loop (Heritage)",
+      "title": "Hardbound Bullet Grid Journal with Pen Loop (Heritage)",
+      "price": 449,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p346",
+      "name": "Rechargeable High-Lumen Headlamp (IPX8) (Nordic)",
+      "title": "Rechargeable High-Lumen Headlamp (IPX8) (Nordic)",
+      "price": 1149,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p347",
+      "name": "Monitor Light Bar with Auto Dimming & Remote (Artisan)",
+      "title": "Monitor Light Bar with Auto Dimming & Remote (Artisan)",
+      "price": 1899,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p348",
+      "name": "Smoked Himalayan Sea Salt Crystals Grinder (Refined)",
+      "title": "Smoked Himalayan Sea Salt Crystals Grinder (Refined)",
+      "price": 399,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p349",
+      "name": "Professional Stainless Steel Mandoline Slicer (Custom)",
+      "title": "Professional Stainless Steel Mandoline Slicer (Custom)",
+      "price": 999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p350",
+      "name": "Wooden Xylophone Musical Instrument for Toddlers (Pro Series)",
+      "title": "Wooden Xylophone Musical Instrument for Toddlers (Pro Series)",
+      "price": 499,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p351",
+      "name": "Acoustic Treatment Foam Panels (12-Pack) (Pro Series)",
+      "title": "Acoustic Treatment Foam Panels (12-Pack) (Pro Series)",
+      "price": 1249,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p352",
+      "name": "Glazed Ceramic Planter with Brass Saucer (Studio Edition)",
+      "title": "Glazed Ceramic Planter with Brass Saucer (Studio Edition)",
+      "price": 649,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p353",
+      "name": "Polarized Classic Wayfarer Sunglasses (Craft)",
+      "title": "Polarized Classic Wayfarer Sunglasses (Craft)",
+      "price": 1749,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p354",
+      "name": "Tempered Glass Smartwatch Screen Protectors (4-Pack) (Signature)",
+      "title": "Tempered Glass Smartwatch Screen Protectors (4-Pack) (Signature)",
+      "price": 349,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p355",
+      "name": "Brass Page Markers & Index Clips (20-Pack) (Heritage)",
+      "title": "Brass Page Markers & Index Clips (20-Pack) (Heritage)",
+      "price": 199,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p356",
+      "name": "Solar Power Bank with Flashlight (20000mAh) (Nordic)",
+      "title": "Solar Power Bank with Flashlight (20000mAh) (Nordic)",
+      "price": 2249,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p357",
+      "name": "Aluminum Adjustable Laptop & Tablet Riser (Artisan)",
+      "title": "Aluminum Adjustable Laptop & Tablet Riser (Artisan)",
+      "price": 1199,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p358",
+      "name": "Aged Modena Balsamic Vinegar IGP (250ml) (Refined)",
+      "title": "Aged Modena Balsamic Vinegar IGP (250ml) (Refined)",
+      "price": 949,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p359",
+      "name": "Pre-Seasoned Cast Iron Reversible Grill & Griddle (Custom)",
+      "title": "Pre-Seasoned Cast Iron Reversible Grill & Griddle (Custom)",
+      "price": 1499,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p360",
+      "name": "Organic Cotton Washable Baby Rattle Pair (Pro Series)",
+      "title": "Organic Cotton Washable Baby Rattle Pair (Pro Series)",
+      "price": 199,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p361",
+      "name": "Dynamic Broadcast Cardioid Microphone (Pro Series)",
+      "title": "Dynamic Broadcast Cardioid Microphone (Pro Series)",
+      "price": 3249,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p362",
+      "name": "Natural Japanese Noren Linen Door Curtain (Studio Edition)",
+      "title": "Natural Japanese Noren Linen Door Curtain (Studio Edition)",
+      "price": 999,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p363",
+      "name": "Top-Grain Leather Toiletry Dopp Kit (Craft)",
+      "title": "Top-Grain Leather Toiletry Dopp Kit (Craft)",
+      "price": 1549,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p364",
+      "name": "Nylon Braided Alpine Loop Watch Strap (Signature)",
+      "title": "Nylon Braided Alpine Loop Watch Strap (Signature)",
+      "price": 499,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p365",
+      "name": "Dual-Tip Archival Calligraphy Marker Set (Heritage)",
+      "title": "Dual-Tip Archival Calligraphy Marker Set (Heritage)",
+      "price": 399,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p366",
+      "name": "Ultralight Goose Down Camp Blanket (Nordic)",
+      "title": "Ultralight Goose Down Camp Blanket (Nordic)",
+      "price": 3449,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p367",
+      "name": "Ultra-Fast 65W Magnetic Wireless Car Mount (Artisan)",
+      "title": "Ultra-Fast 65W Magnetic Wireless Car Mount (Artisan)",
+      "price": 1399,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p368",
+      "name": "Organic Roasted Truffle Spiced Almonds (250g) (Refined)",
+      "title": "Organic Roasted Truffle Spiced Almonds (250g) (Refined)",
+      "price": 499,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p369",
+      "name": "Heat-Resistant Borosilicate Measuring Beakers (3-Set) (Custom)",
+      "title": "Heat-Resistant Borosilicate Measuring Beakers (3-Set) (Custom)",
+      "price": 649,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p370",
+      "name": "Montessori Wooden Geometric Shape Sorting Box (Studio Edition)",
+      "title": "Montessori Wooden Geometric Shape Sorting Box (Studio Edition)",
+      "price": 549,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p371",
+      "name": "Braided XLR Microphone Cable (3m) (Pro Series)",
+      "title": "Braided XLR Microphone Cable (3m) (Pro Series)",
+      "price": 399,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p372",
+      "name": "Organic Washed Linen Table Runner (Studio Edition)",
+      "title": "Organic Washed Linen Table Runner (Studio Edition)",
+      "price": 749,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p373",
+      "name": "Stainless Steel Engraved Collar Stays (6-Pack) (Craft)",
+      "title": "Stainless Steel Engraved Collar Stays (6-Pack) (Craft)",
+      "price": 399,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p374",
+      "name": "Leather Deployant Clasp Watch Strap (20mm) (Signature)",
+      "title": "Leather Deployant Clasp Watch Strap (20mm) (Signature)",
+      "price": 899,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p375",
+      "name": "Solid Walnut Desk Blotter & Mat (Heritage)",
+      "title": "Solid Walnut Desk Blotter & Mat (Heritage)",
+      "price": 1299,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p376",
+      "name": "Waterproof Heavy-Duty Dry Duffel Bag (30L) (Nordic)",
+      "title": "Waterproof Heavy-Duty Dry Duffel Bag (30L) (Nordic)",
+      "price": 1249,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p377",
+      "name": "USB-C 8-in-1 Dual HDMI Hub with 100W PD (Artisan)",
+      "title": "USB-C 8-in-1 Dual HDMI Hub with 100W PD (Artisan)",
+      "price": 1999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p378",
+      "name": "Single-Estate Colombian Supremo Whole Beans (500g) (Refined)",
+      "title": "Single-Estate Colombian Supremo Whole Beans (500g) (Refined)",
+      "price": 799,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p379",
+      "name": "Magnetic Acacia Kitchen Knife Block Wall Strip (Custom)",
+      "title": "Magnetic Acacia Kitchen Knife Block Wall Strip (Custom)",
+      "price": 899,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p380",
+      "name": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub) (Studio Edition)",
+      "title": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub) (Studio Edition)",
+      "price": 249,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p381",
+      "name": "High-Fidelity Portable Headphone Amp (Pro Series)",
+      "title": "High-Fidelity Portable Headphone Amp (Pro Series)",
+      "price": 2749,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p382",
+      "name": "Hand-Carved Sandstone Sculptural Bookends (Studio Edition)",
+      "title": "Hand-Carved Sandstone Sculptural Bookends (Studio Edition)",
+      "price": 1199,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p383",
+      "name": "Silk Knit Classic Necktie (Craft)",
+      "title": "Silk Knit Classic Necktie (Craft)",
+      "price": 849,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p384",
+      "name": "Pulse Oximeter & Activity Tracker Clip (Signature)",
+      "title": "Pulse Oximeter & Activity Tracker Clip (Signature)",
+      "price": 1599,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p385",
+      "name": "Self-Healing Rotary Cutting Mat (A3) (Heritage)",
+      "title": "Self-Healing Rotary Cutting Mat (A3) (Heritage)",
+      "price": 549,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p386",
+      "name": "Portable Water Filtration Straw & Pouch (Nordic)",
+      "title": "Portable Water Filtration Straw & Pouch (Nordic)",
+      "price": 849,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p387",
+      "name": "Low-Profile Custom Keycap Set (PBT Double-Shot) (Artisan)",
+      "title": "Low-Profile Custom Keycap Set (PBT Double-Shot) (Artisan)",
+      "price": 999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p388",
+      "name": "Artisanal French Butter Sablé Biscuits (Box of 16) (Refined)",
+      "title": "Artisanal French Butter Sablé Biscuits (Box of 16) (Refined)",
+      "price": 449,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p389",
+      "name": "Digital Instant-Read Meat & Food Thermometer (Custom)",
+      "title": "Digital Instant-Read Meat & Food Thermometer (Custom)",
+      "price": 599,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p390",
+      "name": "Handcrafted Wooden Train Engine & Carriages (Studio Edition)",
+      "title": "Handcrafted Wooden Train Engine & Carriages (Studio Edition)",
+      "price": 699,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p391",
+      "name": "Turntable Phono Preamplifier Box (Pro Series)",
+      "title": "Turntable Phono Preamplifier Box (Pro Series)",
+      "price": 2149,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p392",
+      "name": "Smart Aroma Ultrasonic Mist Diffuser (Studio Edition)",
+      "title": "Smart Aroma Ultrasonic Mist Diffuser (Studio Edition)",
+      "price": 1599,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p393",
+      "name": "Full-Grain Leather Luggage Tag Set (Craft)",
+      "title": "Full-Grain Leather Luggage Tag Set (Craft)",
+      "price": 499,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p394",
+      "name": "Milano Stainless Steel Mesh Watch Band (Signature)",
+      "title": "Milano Stainless Steel Mesh Watch Band (Signature)",
+      "price": 799,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p395",
+      "name": "Wax Seal Stamp Kit with Melting Spoon & Wax (Heritage)",
+      "title": "Wax Seal Stamp Kit with Melting Spoon & Wax (Heritage)",
+      "price": 499,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p396",
+      "name": "Multi-Tool Stainless Steel Camping Hatchet (Nordic)",
+      "title": "Multi-Tool Stainless Steel Camping Hatchet (Nordic)",
+      "price": 1449,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p397",
+      "name": "Desktop Cable Management Raceway & Clips Set (Artisan)",
+      "title": "Desktop Cable Management Raceway & Clips Set (Artisan)",
+      "price": 449,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p398",
+      "name": "Handcrafted Organic Hazelnut Cocoa Spread (Refined)",
+      "title": "Handcrafted Organic Hazelnut Cocoa Spread (Refined)",
+      "price": 479,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p399",
+      "name": "Silicone Baking Mats & Pastry Scraper Set (Custom)",
+      "title": "Silicone Baking Mats & Pastry Scraper Set (Custom)",
+      "price": 549,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p400",
+      "name": "Magnetic Storyboard Puzzle & Scene Board (Studio Edition)",
+      "title": "Magnetic Storyboard Puzzle & Scene Board (Studio Edition)",
+      "price": 449,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p401",
+      "name": "Compact Bluetooth Audio Receiver DAC (Pro Series)",
+      "title": "Compact Bluetooth Audio Receiver DAC (Pro Series)",
+      "price": 1149,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p402",
+      "name": "Handmade Soy Candle in Terrazzo Jar (Studio Edition)",
+      "title": "Handmade Soy Candle in Terrazzo Jar (Studio Edition)",
+      "price": 549,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p403",
+      "name": "Minimalist Bifold Money Clip Wallet (Craft)",
+      "title": "Minimalist Bifold Money Clip Wallet (Craft)",
+      "price": 799,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p404",
+      "name": "Waterproof Swimming Pace Tracker Band (Signature)",
+      "title": "Waterproof Swimming Pace Tracker Band (Signature)",
+      "price": 2799,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p405",
+      "name": "Mechanical Drafting Pencil (0.5mm Full Metal) (Heritage)",
+      "title": "Mechanical Drafting Pencil (0.5mm Full Metal) (Heritage)",
+      "price": 329,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p406",
+      "name": "Compact Survival First Aid Kit (Pouch) (Nordic)",
+      "title": "Compact Survival First Aid Kit (Pouch) (Nordic)",
+      "price": 599,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p407",
+      "name": "Precision Electric Screwdriver Tool Kit (24-in-1) (Artisan)",
+      "title": "Precision Electric Screwdriver Tool Kit (24-in-1) (Artisan)",
+      "price": 1499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p408",
+      "name": "Organic Infused Earl Grey Loose Leaf Tin (125g) (Refined)",
+      "title": "Organic Infused Earl Grey Loose Leaf Tin (125g) (Refined)",
+      "price": 549,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p409",
+      "name": "Heavyweight Stainless Steel Mixing Bowls with Lids (3-Pack) (Custom)",
+      "title": "Heavyweight Stainless Steel Mixing Bowls with Lids (3-Pack) (Custom)",
+      "price": 949,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p410",
+      "name": "Soft Cotton Animal Activity Playmat (Studio Edition)",
+      "title": "Soft Cotton Animal Activity Playmat (Studio Edition)",
+      "price": 899,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p411",
+      "name": "In-Ear Stage Monitor Earphones (Dual Driver) (Pro Series)",
+      "title": "In-Ear Stage Monitor Earphones (Dual Driver) (Pro Series)",
+      "price": 1849,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p412",
+      "name": "Solid Brass Wall Hook Rack (4-Prong) (Studio Edition)",
+      "title": "Solid Brass Wall Hook Rack (4-Prong) (Studio Edition)",
+      "price": 799,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p413",
+      "name": "Reflective Paracord Survival Bracelet (Craft)",
+      "title": "Reflective Paracord Survival Bracelet (Craft)",
+      "price": 299,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p414",
+      "name": "Dual Wireless Charging Stand for Watch & Phone (Signature)",
+      "title": "Dual Wireless Charging Stand for Watch & Phone (Signature)",
+      "price": 1699,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p415",
+      "name": "Erasable Fine Gel Ink Pens (Box of 8) (Heritage)",
+      "title": "Erasable Fine Gel Ink Pens (Box of 8) (Heritage)",
+      "price": 249,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p416",
+      "name": "Inflatable Ergonomic Camping Pillow (Nordic)",
+      "title": "Inflatable Ergonomic Camping Pillow (Nordic)",
+      "price": 349,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p417",
+      "name": "Silicone Anti-Dust Port Covers & Cleaning Putty (Artisan)",
+      "title": "Silicone Anti-Dust Port Covers & Cleaning Putty (Artisan)",
+      "price": 199,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p418",
+      "name": "Gourmet Savory Hot Sauce Trio Box (Refined)",
+      "title": "Gourmet Savory Hot Sauce Trio Box (Refined)",
+      "price": 699,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p419",
+      "name": "Cocktail Muddler & Jigger Bartender Tool Set (Custom)",
+      "title": "Cocktail Muddler & Jigger Bartender Tool Set (Custom)",
+      "price": 499,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p420",
+      "name": "Illustrated Solar System Hardcover Board Book (Studio Edition)",
+      "title": "Illustrated Solar System Hardcover Board Book (Studio Edition)",
+      "price": 329,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p421",
+      "name": "Boom Arm Heavy-Duty Mic Stand (Pro Series)",
+      "title": "Boom Arm Heavy-Duty Mic Stand (Pro Series)",
+      "price": 849,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p422",
+      "name": "Handblown Amber Glass Vase Set (Studio Edition)",
+      "title": "Handblown Amber Glass Vase Set (Studio Edition)",
+      "price": 899,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p423",
+      "name": "Cashmere & Merino Wool Blend Scarf (Craft)",
+      "title": "Cashmere & Merino Wool Blend Scarf (Craft)",
+      "price": 1949,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p424",
+      "name": "Sapphire Crystal Health & Sleep Tracking Band (Heritage)",
+      "title": "Sapphire Crystal Health & Sleep Tracking Band (Heritage)",
+      "price": 3599,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p425",
+      "name": "Japanese Tomoe River Fountain Pen Notebook (A5) (Nordic)",
+      "title": "Japanese Tomoe River Fountain Pen Notebook (A5) (Nordic)",
+      "price": 599,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p426",
+      "name": "Ultralight Titanium Backpacking Camping Stove (Artisan)",
+      "title": "Ultralight Titanium Backpacking Camping Stove (Artisan)",
+      "price": 1449,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p427",
+      "name": "USB4 40Gbps M.2 NVMe SSD Aluminum Enclosure (Refined)",
+      "title": "USB4 40Gbps M.2 NVMe SSD Aluminum Enclosure (Refined)",
+      "price": 2499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p428",
+      "name": "Ethiopian Yirgacheffe Single-Origin Whole Beans (500g) (Custom)",
+      "title": "Ethiopian Yirgacheffe Single-Origin Whole Beans (500g) (Custom)",
+      "price": 949,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p429",
+      "name": "Damascus Steel Japanese Chef Knife 8-Inch (Elite)",
+      "title": "Damascus Steel Japanese Chef Knife 8-Inch (Elite)",
+      "price": 3599,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p430",
+      "name": "Wooden Xylophone Musical Instrument for Toddlers (Studio Edition)",
+      "title": "Wooden Xylophone Musical Instrument for Toddlers (Studio Edition)",
+      "price": 499,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p431",
+      "name": "Microphone Pop Filter & Shock Mount Set (Pro Series)",
+      "title": "Microphone Pop Filter & Shock Mount Set (Pro Series)",
+      "price": 499,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p432",
+      "name": "Woven Cotton Macrame Plant Hanger (Studio Edition)",
+      "title": "Woven Cotton Macrame Plant Hanger (Studio Edition)",
+      "price": 399,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p433",
+      "name": "Solid Brass Minimalist Money Clip (Craft)",
+      "title": "Solid Brass Minimalist Money Clip (Craft)",
+      "price": 449,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p434",
+      "name": "Titanium Quick-Fit Watch Band (22mm) (Heritage)",
+      "title": "Titanium Quick-Fit Watch Band (22mm) (Heritage)",
+      "price": 1399,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p435",
+      "name": "Solid Brass Precision Drafting Ruler (30cm) (Nordic)",
+      "title": "Solid Brass Precision Drafting Ruler (30cm) (Nordic)",
+      "price": 399,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p436",
+      "name": "Ripstop Hexagonal Waterproof Camping Tarp (Artisan)",
+      "title": "Ripstop Hexagonal Waterproof Camping Tarp (Artisan)",
+      "price": 1749,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p437",
+      "name": "Ergonomic Split Wireless Mechanical Keyboard (Refined)",
+      "title": "Ergonomic Split Wireless Mechanical Keyboard (Refined)",
+      "price": 4999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p438",
+      "name": "First-Flush Single-Estate Darjeeling Black Tea (100g) (Custom)",
+      "title": "First-Flush Single-Estate Darjeeling Black Tea (100g) (Custom)",
+      "price": 699,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p439",
+      "name": "Hand-Carved Olive Wood Cooking Utensil Set (4-Piece) (Elite)",
+      "title": "Hand-Carved Olive Wood Cooking Utensil Set (4-Piece) (Elite)",
+      "price": 999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p440",
+      "name": "Organic Cotton Washable Baby Rattle Pair (Studio Edition)",
+      "title": "Organic Cotton Washable Baby Rattle Pair (Studio Edition)",
+      "price": 199,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p441",
+      "name": "Active Noise-Cancelling Sleep Earbuds (Pro Series)",
+      "title": "Active Noise-Cancelling Sleep Earbuds (Pro Series)",
+      "price": 2449,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p442",
+      "name": "Velvet Accent Throw Pillow Pair (Studio Edition)",
+      "title": "Velvet Accent Throw Pillow Pair (Studio Edition)",
+      "price": 849,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p443",
+      "name": "Heavyweight Water-Resistant Canvas Backpack (Craft)",
+      "title": "Heavyweight Water-Resistant Canvas Backpack (Craft)",
+      "price": 3049,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p444",
+      "name": "GPS Multisport Outdoor Fitness Smartwatch (Heritage)",
+      "title": "GPS Multisport Outdoor Fitness Smartwatch (Heritage)",
+      "price": 4999,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p445",
+      "name": "Archival Fountain Pen Bottled Ink (50ml) (Nordic)",
+      "title": "Archival Fountain Pen Bottled Ink (50ml) (Nordic)",
+      "price": 499,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p446",
+      "name": "Vacuum Insulated Stainless Steel Tumbler (750ml) (Artisan)",
+      "title": "Vacuum Insulated Stainless Steel Tumbler (750ml) (Artisan)",
+      "price": 649,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p447",
+      "name": "3-in-1 MagSafe Aluminum Foldable Charging Stand (Refined)",
+      "title": "3-in-1 MagSafe Aluminum Foldable Charging Stand (Refined)",
+      "price": 2799,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p448",
+      "name": "Artisanal 85% Single-Origin Dark Chocolate Bars (3-Pack) (Custom)",
+      "title": "Artisanal 85% Single-Origin Dark Chocolate Bars (3-Pack) (Custom)",
+      "price": 599,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p449",
+      "name": "Artisanal Glazed Ceramic Ramen Bowl Pair with Chopsticks (Elite)",
+      "title": "Artisanal Glazed Ceramic Ramen Bowl Pair with Chopsticks (Elite)",
+      "price": 1099,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p450",
+      "name": "Montessori Wooden Geometric Shape Sorting Box (Craft)",
+      "title": "Montessori Wooden Geometric Shape Sorting Box (Craft)",
+      "price": 549,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p451",
+      "name": "Desktop Wooden Speaker Isolation Pads (Pro Series)",
+      "title": "Desktop Wooden Speaker Isolation Pads (Pro Series)",
+      "price": 599,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p452",
+      "name": "Minimalist Wall Mounted Key Holder & Shelf (Studio Edition)",
+      "title": "Minimalist Wall Mounted Key Holder & Shelf (Studio Edition)",
+      "price": 499,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p453",
+      "name": "Polarized Clubmaster Style Sunglasses (Craft)",
+      "title": "Polarized Clubmaster Style Sunglasses (Craft)",
+      "price": 1649,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p454",
+      "name": "Bluetooth Chest Strap Heart Rate Monitor (Heritage)",
+      "title": "Bluetooth Chest Strap Heart Rate Monitor (Heritage)",
+      "price": 2299,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p455",
+      "name": "Letterpress Heavyweight Cotton Cards (Set of 12) (Nordic)",
+      "title": "Letterpress Heavyweight Cotton Cards (Set of 12) (Nordic)",
+      "price": 299,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p456",
+      "name": "Compact Aluminum Folding Camp Chair (Artisan)",
+      "title": "Compact Aluminum Folding Camp Chair (Artisan)",
+      "price": 1849,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p457",
+      "name": "Braided 240W Thunderbolt 4 Fast Charge Cable (Refined)",
+      "title": "Braided 240W Thunderbolt 4 Fast Charge Cable (Refined)",
+      "price": 799,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p458",
+      "name": "Wild Raw Forest Blossom Honey (500g) (Custom)",
+      "title": "Wild Raw Forest Blossom Honey (500g) (Custom)",
+      "price": 549,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p459",
+      "name": "Variable Temperature Gooseneck Electric Kettle (1L) (Elite)",
+      "title": "Variable Temperature Gooseneck Electric Kettle (1L) (Elite)",
+      "price": 3399,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p460",
+      "name": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub) (Craft)",
+      "title": "Eco-Friendly Non-Toxic Modeling Dough (6-Color Tub) (Craft)",
+      "price": 249,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p461",
+      "name": "Coaxial Hi-Fi Digital Audio Cable (Pro Series)",
+      "title": "Coaxial Hi-Fi Digital Audio Cable (Pro Series)",
+      "price": 349,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p462",
+      "name": "Handcrafted Rattan Storage Basket (Studio Edition)",
+      "title": "Handcrafted Rattan Storage Basket (Studio Edition)",
+      "price": 949,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p463",
+      "name": "Full Grain Leather Eyewear Sleeve (Craft)",
+      "title": "Full Grain Leather Eyewear Sleeve (Craft)",
+      "price": 549,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p464",
+      "name": "Solar-Powered Hybrid Expedition Watch (Heritage)",
+      "title": "Solar-Powered Hybrid Expedition Watch (Heritage)",
+      "price": 4399,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p465",
+      "name": "Minimalist Machined Aluminum Pen Tray (Nordic)",
+      "title": "Minimalist Machined Aluminum Pen Tray (Nordic)",
+      "price": 349,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p466",
+      "name": "Carbon Fiber Anti-Shock Trekking Poles (Pair) (Artisan)",
+      "title": "Carbon Fiber Anti-Shock Trekking Poles (Pair) (Artisan)",
+      "price": 1949,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p467",
+      "name": "100W GaN 4-Port USB-C Rapid Travel Charger (Refined)",
+      "title": "100W GaN 4-Port USB-C Rapid Travel Charger (Refined)",
+      "price": 2299,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p468",
+      "name": "Ceremonial Grade Uji Japanese Matcha Tin (30g) (Custom)",
+      "title": "Ceremonial Grade Uji Japanese Matcha Tin (30g) (Custom)",
+      "price": 1249,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p469",
+      "name": "Solid Heavy Granite Mortar and Pestle (15cm) (Elite)",
+      "title": "Solid Heavy Granite Mortar and Pestle (15cm) (Elite)",
+      "price": 1299,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p470",
+      "name": "Handcrafted Wooden Train Engine & Carriages (Craft)",
+      "title": "Handcrafted Wooden Train Engine & Carriages (Craft)",
+      "price": 699,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p471",
+      "name": "Studio Reference Audio Calibration Mic (Pro Series)",
+      "title": "Studio Reference Audio Calibration Mic (Pro Series)",
+      "price": 1549,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p472",
+      "name": "Cast Iron Pillar Candle Stand Trio (Studio Edition)",
+      "title": "Cast Iron Pillar Candle Stand Trio (Studio Edition)",
+      "price": 1099,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p473",
+      "name": "Compact RFID Travel Neck Pouch (Craft)",
+      "title": "Compact RFID Travel Neck Pouch (Craft)",
+      "price": 649,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p474",
+      "name": "Fluoroelastomer Breathable Sport Band (3-Pack) (Heritage)",
+      "title": "Fluoroelastomer Breathable Sport Band (3-Pack) (Heritage)",
+      "price": 699,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p475",
+      "name": "Grid Refillable Leather Travelers Notebook (Nordic)",
+      "title": "Grid Refillable Leather Travelers Notebook (Nordic)",
+      "price": 1099,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p476",
+      "name": "Heavy-Duty Anodized Locking Carabiner (4-Pack) (Artisan)",
+      "title": "Heavy-Duty Anodized Locking Carabiner (4-Pack) (Artisan)",
+      "price": 349,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p477",
+      "name": "4K HDR Streaming Webcam with Privacy Shutter (Refined)",
+      "title": "4K HDR Streaming Webcam with Privacy Shutter (Refined)",
+      "price": 3499,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p478",
+      "name": "Cold-Pressed Extra Virgin Olive Oil (500ml) (Custom)",
+      "title": "Cold-Pressed Extra Virgin Olive Oil (500ml) (Custom)",
+      "price": 849,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p479",
+      "name": "Double-Wall Stainless Steel French Press Coffee Maker (Elite)",
+      "title": "Double-Wall Stainless Steel French Press Coffee Maker (Elite)",
+      "price": 1599,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p480",
+      "name": "Magnetic Storyboard Puzzle & Scene Board (Craft)",
+      "title": "Magnetic Storyboard Puzzle & Scene Board (Craft)",
+      "price": 449,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p481",
+      "name": "Waterproof Floating Pool Speaker (Pro Series)",
+      "title": "Waterproof Floating Pool Speaker (Pro Series)",
+      "price": 1449,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p482",
+      "name": "Felt Bedside Hanging Organizer Caddy (Studio Edition)",
+      "title": "Felt Bedside Hanging Organizer Caddy (Studio Edition)",
+      "price": 349,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p483",
+      "name": "Magnetic Quick-Release Key Organizer Ring (Craft)",
+      "title": "Magnetic Quick-Release Key Organizer Ring (Craft)",
+      "price": 399,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p484",
+      "name": "Smart Fitness Finger Ring Sensor (Heritage)",
+      "title": "Smart Fitness Finger Ring Sensor (Heritage)",
+      "price": 4099,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p485",
+      "name": "Solid Copper Hexagonal Ballpoint Pen (Nordic)",
+      "title": "Solid Copper Hexagonal Ballpoint Pen (Nordic)",
+      "price": 799,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p486",
+      "name": "Quick-Dry Microfiber Camp & Travel Towel (Artisan)",
+      "title": "Quick-Dry Microfiber Camp & Travel Towel (Artisan)",
+      "price": 399,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p487",
+      "name": "Wireless Bluetooth Trackball Mouse (Refined)",
+      "title": "Wireless Bluetooth Trackball Mouse (Refined)",
+      "price": 1999,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p488",
+      "name": "Madagascar Bourbon Vanilla Bean Pods (5-Pack) (Custom)",
+      "title": "Madagascar Bourbon Vanilla Bean Pods (5-Pack) (Custom)",
+      "price": 749,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p489",
+      "name": "Manual Conical Burr Coffee Hand Grinder (Stainless) (Elite)",
+      "title": "Manual Conical Burr Coffee Hand Grinder (Stainless) (Elite)",
+      "price": 1999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p490",
+      "name": "Soft Cotton Animal Activity Playmat (Craft)",
+      "title": "Soft Cotton Animal Activity Playmat (Craft)",
+      "price": 899,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p491",
+      "name": "Mini Optical Toslink DAC Converter (Pro Series)",
+      "title": "Mini Optical Toslink DAC Converter (Pro Series)",
+      "price": 749,
+      "currency": "INR",
+      "category": "audio",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p492",
+      "name": "Natural Cedar Moth-Repellent Closet Blocks (Studio Edition)",
+      "title": "Natural Cedar Moth-Repellent Closet Blocks (Studio Edition)",
+      "price": 299,
+      "currency": "INR",
+      "category": "home",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p493",
+      "name": "Leather Watch Travel Storage Roll (3-Slot) (Craft)",
+      "title": "Leather Watch Travel Storage Roll (3-Slot) (Craft)",
+      "price": 1449,
+      "currency": "INR",
+      "category": "accessories",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p494",
+      "name": "Magnetic Smartwatch Desktop Charging Cradle (Heritage)",
+      "title": "Magnetic Smartwatch Desktop Charging Cradle (Heritage)",
+      "price": 599,
+      "currency": "INR",
+      "category": "wearables",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p495",
+      "name": "Hardbound Bullet Grid Journal with Pen Loop (Nordic)",
+      "title": "Hardbound Bullet Grid Journal with Pen Loop (Nordic)",
+      "price": 449,
+      "currency": "INR",
+      "category": "stationery",
+      "stock": 8,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p496",
+      "name": "Rechargeable High-Lumen Headlamp (IPX8) (Artisan)",
+      "title": "Rechargeable High-Lumen Headlamp (IPX8) (Artisan)",
+      "price": 1149,
+      "currency": "INR",
+      "category": "outdoor",
+      "stock": 15,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p497",
+      "name": "Monitor Light Bar with Auto Dimming & Remote (Refined)",
+      "title": "Monitor Light Bar with Auto Dimming & Remote (Refined)",
+      "price": 1899,
+      "currency": "INR",
+      "category": "tech",
+      "stock": 22,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p498",
+      "name": "Smoked Himalayan Sea Salt Crystals Grinder (Custom)",
+      "title": "Smoked Himalayan Sea Salt Crystals Grinder (Custom)",
+      "price": 399,
+      "currency": "INR",
+      "category": "food",
+      "stock": 29,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p499",
+      "name": "Professional Stainless Steel Mandoline Slicer (Elite)",
+      "title": "Professional Stainless Steel Mandoline Slicer (Elite)",
+      "price": 999,
+      "currency": "INR",
+      "category": "kitchen",
+      "stock": 36,
+      "availability": "in_stock"
+    },
+    {
+      "id": "p500",
+      "name": "Illustrated Solar System Hardcover Board Book (Craft)",
+      "title": "Illustrated Solar System Hardcover Board Book (Craft)",
+      "price": 329,
+      "currency": "INR",
+      "category": "kids",
+      "stock": 8,
+      "availability": "in_stock"
+    }
+  ],
+  "upsells": [
+    {
+      "id": "u1",
+      "name": "Premium Gift Box",
+      "title": "Premium Gift Box",
+      "price": 149,
+      "currency": "INR"
+    },
+    {
+      "id": "u2",
+      "name": "Handwritten Card",
+      "title": "Handwritten Card",
+      "price": 49,
+      "currency": "INR"
+    },
+    {
+      "id": "u3",
+      "name": "Express Wrap & Ribbon",
+      "title": "Express Wrap & Ribbon",
+      "price": 99,
+      "currency": "INR"
+    },
+    {
+      "id": "u4",
+      "name": "Personalised Gift Tag",
+      "title": "Personalised Gift Tag",
+      "price": 39,
+      "currency": "INR"
+    },
+    {
+      "id": "u5",
+      "name": "Scented Sachet",
+      "title": "Scented Sachet",
+      "price": 59,
+      "currency": "INR"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "verve-and-co-agentic-checkout",
+  "version": "2.2.0",
+  "private": true,
+  "description": "Verve & Co. — Agentic Checkout Console for Razorpay AI Buildathon Track 01",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node razorpay-agent-server.js",
+    "start": "node razorpay-agent-server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "lucide-react": "^0.344.0",
+    "razorpay": "^2.9.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.4"
+  }
+}
