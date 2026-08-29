@@ -245,4 +245,4 @@ Use the interactive scenario buttons in the console to evaluate edge cases immed
 - **Project:** Verve & Co. — Agentic Commerce & Checkout Engine
 - **Track:** Track 01 — AI Growth & Agentic Commerce
 - **Target Event:** Razorpay AI Buildathon
-- **Repository:** [https://github.com/taneshkhandal07-debug/Verve-Co](https://github.com/taneshkhandal07-debug/Verve-Co)
+- **Repository:** [https://github.com/taneshkhandal07-debug/Verve-Co.](https://github.com/taneshkhandal07-debug/Verve-Co.)
